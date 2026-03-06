@@ -5,6 +5,8 @@ import { Login } from "./components/Login";
 import { Cadastro } from "./components/Cadastro";
 import { DadosPessoais } from "./components/DadosPessoais";
 import { TelaPrincipal } from "./components/TelaPrincipal";
+import { TelaAguardo } from "./components/TelaAguardo";
+import { TelaChat } from "./components/TelaChat";
 
 export const router = createBrowserRouter([
   {
@@ -30,5 +32,13 @@ export const router = createBrowserRouter([
   {
     path: "/principal",
     Component: TelaPrincipal,
+  },
+  {
+    path: "/aguardo",
+    Component: TelaAguardo,
+  },
+  {
+    path: "/chat",
+    Component: TelaChat,
   },
 ]);

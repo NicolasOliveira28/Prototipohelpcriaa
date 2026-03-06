@@ -1,7 +1,7 @@
 
-  # App presentation design
+  # Prototipo HelpCRIAA
 
-  This is a code bundle for App presentation design. The original project is available at https://www.figma.com/design/PoG4Cu4iwPPrGLOuNIYTEu/App-presentation-design.
+  This is a code bundle for Prototipo HelpCRIAA. The original project is available at https://www.figma.com/design/PoG4Cu4iwPPrGLOuNIYTEu/Prototipo-HelpCRIAA.
 
   ## Running the code
 
